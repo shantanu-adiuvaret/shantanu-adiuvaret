@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @shantanu
+- 👀 I’m interested in Full Stack Development
+- 😄 I’m currently learning Shopify and React
+- 🌱 I’m currently working at adiuvaret kids as web developer
+- 💞️ I’m looking to collaborate on web developement projects 
+- 📫 How to reach me ... Instagram :- _shantanu143 _
